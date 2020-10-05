@@ -1,7 +1,6 @@
 <?php
 
-//  Crea e modella classi, a piacere, per gestire i dipendenti di un'azienda.
-// Aggiungete 1 trait a piacere 
+//  Crea e modella classi, a piacere, per gestire i dipendenti di un'azienda. Aggiungete 1 trait a piacere 
 
 
 include_once __DIR__.'/classi/Impiegato.php';
